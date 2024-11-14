@@ -1,0 +1,17 @@
+TheDevMachine
+=============
+
+ 1. Cria diretório principal ~/.the-dev-machine
+ 2. Cria diretório de setup ~/.the-dev-machine/setup
+ 3. Verifica pré-requisitos (wget ou curl)
+ 4. Baixa configurações de variantes ~/.the-dev-machine/setup/variants.json
+ 5. Exibe prompt para escolha de variante
+ 6. Baixa configurações da variante escolhida ~/.the-dev-machine/setup/config/variant-name.json
+ 7. Baixa scripts de tarefas da variante ~/.the-dev-machine/setup/tasks/variant-name/task-name
+ 8. Torna cada script de tarefa executável
+ 9. Executa cada script de tarefa interativamente
+    - Git
+    - Snap
+    - SSH
+    - Chave SSH padrão
+10. Arquiva diretório de setup ~/.the-dev-machine/setup-archive
