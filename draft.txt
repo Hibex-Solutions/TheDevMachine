@@ -14,4 +14,7 @@ TheDevMachine
     - Snap
     - SSH
     - Chave SSH padrão
+    - Arquivos padrões de sessão (.bashrc, .bash_profile, etc)
+    - Oh My Posh
+    - Fontes
 10. Arquiva diretório de setup ~/.the-dev-machine/setup-archive
