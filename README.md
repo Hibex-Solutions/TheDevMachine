@@ -4,10 +4,10 @@ Esta é uma coleção de scripts que auxiliam o desenvolvedor a configurar sua m
 
 Para configurar sua máquina execute o comando abaixo:
 ```
-curl -s https://raw.githubusercontent.com/Hibex-Solutions/TheDevMachine/refs/heads/main/the-dev-machine-init.sh | sudo bash -s
+curl -s https://hibex-solutions.github.io/TheDevMachine/setup.sh | sudo bash -s
 ```
 ```
-wget -q -O - https://raw.githubusercontent.com/Hibex-Solutions/TheDevMachine/refs/heads/main/the-dev-machine-init.sh | sudo bash -s
+wget -q -O - https://hibex-solutions.github.io/TheDevMachine/setup.sh | sudo bash -s
 ```
 
 > ⚠️ CUIDADO! Você estará executando o comando como super usuário!
